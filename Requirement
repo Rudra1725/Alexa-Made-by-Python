@@ -1,1 +1,11 @@
+You need a latest Python (3.14) to run this code on your device, [ Just open any compiler Terminal and paste the { pip install SpeechRecognition pyaudiowpatch pyttsx3 pywhatkit requests wikipedia pyjokes }
+inside the terminal and hit enter!. 
 
+
+SpeechRecognition
+PyAudio
+pyttsx3
+pywhatkit
+requests
+wikipedia
+pyjokes
